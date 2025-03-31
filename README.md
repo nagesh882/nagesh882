@@ -54,19 +54,20 @@ Hey there! I'm **Nagesh Chavan**, a passionate **Python Developer** specializing
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Contribution & Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nageshchavan0802&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nageshchavan0802&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nageshchavan0802&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=nageshchavan0802&theme=react-dark" alt="GitHub Contribution Graph" />
 </div>
 
 ---
 
 ### 🌐 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nageshchavan0802/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nageshchavan0802)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nageshchavan0802@gmail.com)
-
----
-
-![Snake animation](https://github.com/nageshchavan0802/nageshchavan0802/blob/output/github-contribution-grid-snake.svg)
