@@ -6,7 +6,7 @@
 Hey there! I'm **Nagesh Chavan**, a passionate **Python Developer** specializing in backend development, API integration, and real-time data processing. I have experience building scalable systems with **Django**, **FastAPI**, and **React.js**, ensuring high performance and security. 🚀
 
 🔹 **Currently Working at**: Shekru Labs India Pvt. Ltd.<br>
-🔹 **Projects**: AutoProfito (Copy Trading), StockSync(Copy Trading), MenuMitra (Digital Menu), FriendsCart (E-Commerce)
+🔹 **Projects**: AlgoTrading Strategies, AutoProfito (Copy Trading), StockSync(Copy Trading), MenuMitra (Digital Menu), FriendsCart (E-Commerce)
 
 ---
 
