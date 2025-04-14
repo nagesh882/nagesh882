@@ -71,18 +71,6 @@ Hey there! I'm **Nagesh Chavan**, a passionate **Python Full Stack Developer** w
 
 ---
 
-### 📊 GitHub Contribution & Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nagesh882&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagesh882&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d&count_private=true" alt="GitHub Stats" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nagesh-chavan-878b742b7)
