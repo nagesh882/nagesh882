@@ -1,6 +1,6 @@
 ## 🚀 Nagesh Chavan | Python Full Stack Developer  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B2FF&vCenter=true&width=600&lines=Skilled+Python+Developer;Backend+%7C+Frontend+%7C+API+%7C+Security;Building+Scalable+Web+Applications;Optimizing+Backend+Performance+%F0%9F%94%A5)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B2FF&vCenter=true&width=600&lines=Skilled+Python+Developer;Full+Stack+%7C+API+%7C+Security+%7C+DevOps;Building+Scalable+Web+Applications;Optimizing+Backend+Performance+%F0%9F%94%A5)
 
 ---
 
