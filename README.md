@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-Hey there! I'm **Nagesh Chavan**, a passionate **Python Full Stack Developer** with 1.8+ years of experience building high-performance, scalable systems. I specialize in backend architecture, real-time WebSocket APIs, and automation for algorithmic trading platforms. I love turning ideas into efficient solutions. 🚀
+Hey there! I'm **Nagesh Chavan**, a passionate **Python Full Stack Developer** with 3.1+ years of experience building high-performance, scalable systems. I specialize in backend architecture, real-time WebSocket APIs, and automation for algorithmic trading platforms. I love turning ideas into efficient solutions. 🚀
 
 🔹 **Currently @** Shekru Labs India Pvt. Ltd.  
 🔹 **Domains**: Algo Trading, Real-Time APIs, Automation, Admin Dashboards  
