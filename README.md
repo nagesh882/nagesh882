@@ -1,6 +1,7 @@
 ## 🚀 Nagesh Chavan | Software Engineer  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B2FF&vCenter=true&width=650&lines=Software+Engineer;Backend+%7C+APIs+%7C+Realtime+Systems;Algo+Trading+%26+Quant+Automation;Optimizing+Backend+Performance+%F0%9F%94%A5)
+
 ---
 
 ### 🌟 About Me
