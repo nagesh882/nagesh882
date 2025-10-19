@@ -76,7 +76,7 @@ Currently developing next-generation quant infrastructure with AI-assisted tradi
 
 #### ⚙️ **YuktiQuant Platform**
 - Quant research & algo trading platform  
-- Backend: FastAPI + PostgreSQL + WebSockets  
+- Backend: Go + Python + FastAPI + PostgreSQL + WebSockets  
 - Frontend: React + Tailwind + Framer Motion  
 - AI Layer: OpenAI GPT for strategy analysis and natural language insights  
 - Deployed on Docker + Nginx + AWS  
