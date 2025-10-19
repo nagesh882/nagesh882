@@ -9,7 +9,6 @@ Hey there! I'm **Nagesh Chavan**, a passionate **Software Engineer** with 4.4+ y
 I specialize in **backend architecture**, **real-time APIs**, and **algorithmic trading automation**.  
 Currently developing next-generation quant infrastructure with AI-assisted trading systems. ⚡  
 
-_Portfolio_ https://nagesh882.github.io/Portfolio/
 ---
 
 🔹 **Currently**: Caresoft Global Pvt. Ltd.  
