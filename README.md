@@ -9,8 +9,8 @@ Hey there! I'm **Nagesh Chavan**, a passionate **Software Engineer** with 4.3+ y
 I specialize in **backend architecture**, **real-time APIs**, and **algorithmic trading automation**.  
 Currently developing next-generation quant infrastructure with AI-assisted trading systems. ⚡
 
-🔹 **Currently @** Caresoft Global Pvt. Ltd.
-🔹 **Previous @** Shekru Labs India Pvt. Ltd.
+🔹 **Currently** Caresoft Global Pvt. Ltd.
+🔹 **Previous** Shekru Labs India Pvt. Ltd.
 🔹 **Domains**: Algo Trading | Real-Time APIs | Quant Research | Automation | Dashboards  
 🔹 **Philosophy**: Clean Code · Secure Systems · Reliable Architecture  
 
