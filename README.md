@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-Hey there! I'm **Nagesh Chavan**, a passionate **Software Engineer** with 4.4+ years of experience in building **high-performance, scalable systems**.  
+Hey there! I'm **Nagesh Chavan**, a passionate **Software Engineer** with 5.2+ years of experience in building **high-performance, scalable systems**.  
 I specialize in **backend architecture**, **real-time APIs**, and **algorithmic trading automation**.  
 Currently developing next-generation quant infrastructure with AI-assisted trading systems. ⚡  
 
