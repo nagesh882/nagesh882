@@ -5,14 +5,14 @@
 ---
 
 ### 🌟 About Me
-Hey there! I'm **Nagesh Chavan**, a passionate **Software Engineer** with 5.2+ years of experience in building **high-performance, scalable systems**.  
+Hey there! I'm **Nagesh Chavan**, a passionate **Software Engineer** with 5.2 years of experience in building **high-performance, scalable systems**.  
 I specialize in **backend architecture**, **real-time APIs**, and **algorithmic trading automation**.  
 Currently developing next-generation quant infrastructure with AI-assisted trading systems. ⚡  
 
 ---
 
 🔹 **Currently**: Caresoft Global Pvt. Ltd.  
-🔹 **Previous**: Shekru Labs India Pvt. Ltd. · Accurate Industrial Controls Pvt. Ltd.  
+🔹 **Previous**: Shekru Labs India Pvt. Ltd. · Adysun Ventures Pvt. Ltd. · Accurate Industrial Controls Pvt. Ltd.  
 🔹 **Domains**: Algo Trading · Real-Time APIs · Quant Research · Automation · Dashboards  
 🔹 **Philosophy**: Clean Code · Secure Systems · Reliable Architecture  
 
