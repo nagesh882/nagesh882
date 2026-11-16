@@ -12,7 +12,7 @@ Currently developing next-generation quant infrastructure with AI-assisted tradi
 ---
 
 🔹 **Currently**: Caresoft Global Pvt. Ltd.  
-🔹 **Previous**: Shekru Labs India Pvt. Ltd. · Adysun Ventures Pvt. Ltd. · Accurate Industrial Controls Pvt. Ltd.  
+🔹 **Previous**: Adysun Ventures Pvt. Ltd. · Accurate Industrial Controls Pvt. Ltd.  
 🔹 **Domains**: Algo Trading · Real-Time APIs · Quant Research · Automation · Dashboards  
 🔹 **Philosophy**: Clean Code · Secure Systems · Reliable Architecture  
 
